@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#050505" />
+    <title>Exposición de las ocupaciones a la Inteligencia Artificial</title>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#story">Saltar a la visualización</a>
+    <div class="reading-progress" aria-hidden="true">
+      <span id="reading-progress"></span>
+    </div>
+    <button class="back-to-top" id="back-to-top" type="button" aria-label="Volver al inicio" title="Volver al inicio">
+      <i data-lucide="arrow-up" aria-hidden="true"></i>
+    </button>
+
+    <header class="hero">
+      <div class="hero__media" aria-hidden="true">
+        <div class="hero__grid"></div>
+        <div class="hero__glow"></div>
+        <div class="hero__bars"></div>
+      </div>
+      <div class="hero__content">
+        <p class="kicker">DAIOE 2010-2023 · Contexto español</p>
+        <h1>Exposición de las ocupaciones a la Inteligencia Artificial</h1>
+        <p>
+          Evolución temporal y contexto español, con una lectura visual del salto de la IA
+          generativa y de su impacto desigual por tipo de empleo y género.
+        </p>
+      </div>
+    </header>
+
+    <main>
+      <section class="intro">
+        <p>
+          El DAIOE (Dynamic AI Occupational Exposure Index) mide el grado en que cada
+          ocupación está expuesta a nueve tipos de aplicaciones de IA —desde modelos de
+          lenguaje hasta reconocimiento de imágenes— y cómo esa exposición ha evolucionado
+          año a año entre 2010 y 2023.
+        </p>
+        <div class="metric-row is-loading" id="summary-metrics" aria-live="polite"></div>
+      </section>
+
+      <section class="story" id="story">
+        <article class="steps">
+          <section class="step is-active" data-scene="timeline">
+            <p class="eyebrow">01 / Evolución</p>
+            <h2>El cambio empieza lentamente y se acelera después de 2013</h2>
+            <p>
+              La exposición era casi nula al inicio de la década. A partir de la era del
+              deep learning, todos los grupos crecen, pero los perfiles cognitivos se
+              separan con más fuerza.
+            </p>
+          </section>
+
+          <section class="step" data-scene="topbottom">
+            <p class="eyebrow">02 / Ocupaciones</p>
+            <h2>Las ocupaciones más expuestas son técnicas, administrativas y textuales</h2>
+            <p>
+              Programadores, perfiles matemáticos, escritores y tareas de codificación o
+              revisión documental aparecen en la parte alta. En el extremo bajo predominan
+              trabajos físicos o de proximidad humana.
+            </p>
+          </section>
+
+          <section class="step" data-scene="heatmap">
+            <p class="eyebrow">03 / Tipos de IA</p>
+            <h2>No todas las aplicaciones de IA afectan igual a cada grupo</h2>
+            <p>
+              El mapa de calor permite leer qué subdominios de IA concentran más exposición
+              por gran grupo ocupacional.
+            </p>
+          </section>
+
+          <section class="step" data-scene="acceleration">
+            <p class="eyebrow">04 / GenAI</p>
+            <h2>Entre 2019 y 2023, el salto se concentra en empleos intelectuales</h2>
+            <p>
+              Las ocupaciones con mayor aceleración son programadores, escritores,
+              matemáticos, contables, abogados, economistas y perfiles afines.
+            </p>
+          </section>
+
+          <section class="step" data-scene="genai">
+            <p class="eyebrow">05 / Ratio GenAI</p>
+            <h2>La IA generativa es una parte de la exposición total, no toda la historia</h2>
+            <p>
+              El ratio GenAI compara la exposición generativa con la exposición total a IA.
+              Los valores deben leerse como peso relativo dentro de un ecosistema más amplio.
+            </p>
+          </section>
+
+          <section class="step" data-scene="spain">
+            <p class="eyebrow">06 / España</p>
+            <h2>La exposición alta también importa por volumen de trabajadores</h2>
+            <p>
+              Varios grupos combinan DAIOE superior a 33 con cientos de miles o millones de
+              personas ocupadas.
+            </p>
+          </section>
+
+          <section class="step" data-scene="gender">
+            <p class="eyebrow">07 / Género</p>
+            <h2>El ángulo central: los empleos cognitivos expuestos están feminizados</h2>
+            <p>
+              Administración y técnicos científicos muestran alta exposición y alta presencia
+              femenina. En cambio, grupos manuales menos expuestos están masculinizados.
+            </p>
+          </section>
+        </article>
+
+        <aside class="visual-panel" aria-labelledby="chart-title">
+          <div class="chart-shell is-loading">
+            <div class="chart-header">
+              <div>
+                <p id="chart-kicker">Visualización</p>
+                <h3 id="chart-title">Cargando datos...</h3>
+              </div>
+              <div class="legend" id="legend"></div>
+            </div>
+            <div id="chart" class="chart" role="img" aria-labelledby="chart-title chart-note" aria-live="polite" tabindex="0"></div>
+            <p id="chart-note" class="chart-note"></p>
+            <p id="chart-source" class="chart-source"></p>
+          </div>
+        </aside>
+      </section>
+
+      <section class="closing">
+        <h2>Conclusión</h2>
+        <p>
+          La historia no apunta a una sustitución automática del empleo, sino a una
+          redistribución de la exposición: el trabajo cognitivo, administrativo y textual
+          entra en el centro de la transformación, con una lectura de género que merece
+          atención propia.
+        </p>
+      </section>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="https://cdn.jsdelivr.net/npm/scrollama@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/scrollreveal@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lucide@latest/dist/umd/lucide.min.js"></script>
+    <script src="app.js?v=20260514-30"></script>
+  </body>
+</html>

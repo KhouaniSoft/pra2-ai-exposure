@@ -1,0 +1,425 @@
+codigo_isco,ocupacion,isco_1digit,gran_grupo,DAIOE_total,DAIOE_genai,ratio_genai
+1112,Senior government officials,1,1 Directores/gerentes,31.36,2.9,0.092
+1113,Traditional chiefs and heads of villages,1,1 Directores/gerentes,34.53,3.33,0.096
+1114,Senior officials of special-interest organizations,1,1 Directores/gerentes,33.86,3.15,0.093
+1120,Managing directors and chief executives,1,1 Directores/gerentes,32.33,2.99,0.093
+1211,Finance managers,1,1 Directores/gerentes,38.51,3.6,0.093
+1212,Human resource managers,1,1 Directores/gerentes,34.89,3.38,0.097
+1213,Policy and planning managers,1,1 Directores/gerentes,36.05,3.27,0.091
+1219,Business services and administration managers not elsewhere classified,1,1 Directores/gerentes,33.18,3.0,0.09
+1221,Sales and marketing managers,1,1 Directores/gerentes,34.08,3.3,0.097
+1222,Advertising and public relations managers,1,1 Directores/gerentes,36.31,3.54,0.097
+1223,Research and development managers,1,1 Directores/gerentes,38.3,3.53,0.092
+1311,Agricultural and forestry production managers,1,1 Directores/gerentes,28.8,2.18,0.076
+1312,Aquaculture and fisheries production managers,1,1 Directores/gerentes,28.8,2.18,0.076
+1321,Manufacturing managers,1,1 Directores/gerentes,31.57,2.55,0.081
+1322,Mining managers,1,1 Directores/gerentes,36.05,3.27,0.091
+1323,Construction managers,1,1 Directores/gerentes,34.83,3.07,0.088
+1324,"Supply, distribution and related managers",1,1 Directores/gerentes,34.84,3.15,0.09
+1330,Information and communications technology service managers,1,1 Directores/gerentes,37.66,3.47,0.092
+1341,Child care services managers,1,1 Directores/gerentes,33.23,3.06,0.092
+1342,Health services managers,1,1 Directores/gerentes,33.6,3.11,0.093
+1343,Aged care services managers,1,1 Directores/gerentes,31.87,2.89,0.091
+1344,Social welfare managers,1,1 Directores/gerentes,28.51,2.6,0.091
+1345,Education managers,1,1 Directores/gerentes,31.74,2.99,0.094
+1346,Financial and insurance services branch managers,1,1 Directores/gerentes,34.32,3.13,0.091
+1349,Professional services managers not elsewhere classified,1,1 Directores/gerentes,36.05,3.27,0.091
+1411,Hotel managers,1,1 Directores/gerentes,25.33,2.17,0.086
+1412,Restaurant managers,1,1 Directores/gerentes,26.04,2.0,0.077
+1420,Retail and wholesale trade managers,1,1 Directores/gerentes,30.14,2.66,0.088
+1431,"Sports, recreation and cultural centre managers",1,1 Directores/gerentes,32.54,2.84,0.087
+1439,Services managers not elsewhere classified,1,1 Directores/gerentes,36.05,3.27,0.091
+0211,Physical and earth science professionals,0,0 Militares,45.51,4.26,0.094
+2111,Physicists and astronomers,2,2 Téc. y prof. científicos,43.48,4.28,0.098
+2112,Meteorologists,2,2 Téc. y prof. científicos,44.17,4.19,0.095
+2113,Chemists,2,2 Téc. y prof. científicos,41.23,3.62,0.088
+2114,Geologists and geophysicists,2,2 Téc. y prof. científicos,39.77,3.53,0.089
+2120,"Mathematicians, actuaries and statisticians",2,2 Téc. y prof. científicos,47.72,4.69,0.098
+2131,"Biologists, botanists, zoologists and related professionals",2,2 Téc. y prof. científicos,39.45,3.55,0.09
+2132,"Farming, forestry and fisheries advisers",2,2 Téc. y prof. científicos,33.32,2.9,0.087
+2133,Environmental protection professionals,2,2 Téc. y prof. científicos,35.2,3.08,0.087
+2141,Industrial and production engineers,2,2 Téc. y prof. científicos,41.7,3.82,0.091
+2142,Civil engineers,2,2 Téc. y prof. científicos,42.41,3.99,0.094
+2143,Environmental engineers,2,2 Téc. y prof. científicos,41.41,3.93,0.095
+2144,Mechanical engineers,2,2 Téc. y prof. científicos,41.34,3.77,0.091
+2145,Chemical engineers,2,2 Téc. y prof. científicos,45.35,4.29,0.095
+2146,"Mining engineers, metallurgists and related professionals",2,2 Téc. y prof. científicos,43.1,4.0,0.093
+2149,Engineering professionals not elsewhere classified,2,2 Téc. y prof. científicos,41.68,3.8,0.091
+2151,Electrical engineers,2,2 Téc. y prof. científicos,43.36,3.98,0.092
+2152,Electronics engineers,2,2 Téc. y prof. científicos,43.02,3.85,0.09
+2153,Telecommunications engineers,2,2 Téc. y prof. científicos,38.89,3.36,0.086
+2161,Building architects,2,2 Téc. y prof. científicos,39.09,3.71,0.095
+2162,Landscape architects,2,2 Téc. y prof. científicos,38.78,3.75,0.097
+2163,Product and garment designers,2,2 Téc. y prof. científicos,39.17,3.67,0.094
+2164,Town and traffic planners,2,2 Téc. y prof. científicos,39.19,3.78,0.096
+2165,Cartographers and surveyors,2,2 Téc. y prof. científicos,38.65,3.22,0.083
+2166,Graphic and multimedia designers,2,2 Téc. y prof. científicos,41.69,3.9,0.094
+2211,Generalist medical practitioners ,2,2 Téc. y prof. científicos,35.59,3.0,0.084
+2212,Specialist medical practitioners ,2,2 Téc. y prof. científicos,30.18,2.42,0.08
+2221,Nursing professionals,2,2 Téc. y prof. científicos,27.68,2.16,0.078
+2222,Midwifery professionals,2,2 Téc. y prof. científicos,29.59,2.33,0.079
+2230,Traditional and complementary medicine professionals,2,2 Téc. y prof. científicos,36.55,3.02,0.083
+2240,Paramedical practitioners,2,2 Téc. y prof. científicos,29.45,2.23,0.076
+2250,Veterinarians,2,2 Téc. y prof. científicos,29.76,2.18,0.073
+2261,Dentists,2,2 Téc. y prof. científicos,28.31,2.05,0.072
+2262,Pharmacists,2,2 Téc. y prof. científicos,31.93,2.7,0.085
+2263,Environmental and occupational health and hygiene professionals,2,2 Téc. y prof. científicos,34.78,2.96,0.085
+2264,Physiotherapists ,2,2 Téc. y prof. científicos,27.09,2.22,0.082
+2265,Dieticians and nutritionists,2,2 Téc. y prof. científicos,33.06,3.18,0.096
+2266,Audiologists and speech therapists,2,2 Téc. y prof. científicos,34.16,2.78,0.081
+2267,Optometrists and ophthalmic opticians,2,2 Téc. y prof. científicos,34.92,2.68,0.077
+2269,Health professionals not elsewhere classified,2,2 Téc. y prof. científicos,33.42,2.83,0.085
+2310,University and higher education teachers,2,2 Téc. y prof. científicos,38.46,3.71,0.096
+2320,Vocational education teachers,2,2 Téc. y prof. científicos,29.69,2.49,0.084
+2330,Secondary education teachers,2,2 Téc. y prof. científicos,35.45,3.27,0.092
+2341,Primary school teachers,2,2 Téc. y prof. científicos,35.21,3.28,0.093
+2342,Early childhood educators,2,2 Téc. y prof. científicos,32.5,2.89,0.089
+2351,Education methods specialists,2,2 Téc. y prof. científicos,36.33,3.53,0.097
+2352,Special needs teachers,2,2 Téc. y prof. científicos,30.31,2.7,0.089
+2353,Other language teachers,2,2 Téc. y prof. científicos,35.99,3.29,0.091
+2354,Other music teachers,2,2 Téc. y prof. científicos,33.61,2.88,0.086
+2355,Other arts teachers,2,2 Téc. y prof. científicos,35.29,3.18,0.09
+2356,Information technology trainers,2,2 Téc. y prof. científicos,33.21,3.19,0.096
+2359,Teaching professionals not elsewhere classified,2,2 Téc. y prof. científicos,33.77,3.15,0.093
+2411,Accountants,2,2 Téc. y prof. científicos,44.93,4.1,0.091
+2412,Financial and investment advisers,2,2 Téc. y prof. científicos,45.09,4.22,0.094
+2413,Financial analysts,2,2 Téc. y prof. científicos,45.21,4.14,0.092
+2421,Management and organization analysts,2,2 Téc. y prof. científicos,41.83,4.03,0.096
+2422,Policy administration professionals,2,2 Téc. y prof. científicos,40.73,3.76,0.092
+2423,Personnel and careers professionals,2,2 Téc. y prof. científicos,37.61,3.55,0.094
+2424,Training and staff development professionals,2,2 Téc. y prof. científicos,33.21,3.19,0.096
+2431,Advertising and marketing professionals,2,2 Téc. y prof. científicos,46.41,4.63,0.1
+2432,Public relations professionals,2,2 Téc. y prof. científicos,36.4,3.47,0.095
+2433,Technical and medical sales professionals (excluding ICT),2,2 Téc. y prof. científicos,33.63,3.14,0.093
+2434,Information and communications technology sales professionals,2,2 Téc. y prof. científicos,33.02,3.08,0.093
+2511,Systems analysts,2,2 Téc. y prof. científicos,43.84,4.11,0.094
+2512,Software developers,2,2 Téc. y prof. científicos,47.28,4.42,0.093
+2513,Web and multimedia developers,2,2 Téc. y prof. científicos,45.66,4.2,0.092
+2514,Applications programmers,2,2 Téc. y prof. científicos,49.48,4.63,0.094
+2519,Software and applications developers and analysts not elsewhere classified,2,2 Téc. y prof. científicos,44.22,4.13,0.093
+2521,Database designers and administrators,2,2 Téc. y prof. científicos,46.38,4.24,0.091
+2522,Systems administrators,2,2 Téc. y prof. científicos,40.6,3.51,0.086
+2523,Computer network professionals,2,2 Téc. y prof. científicos,38.08,3.29,0.086
+2529,Database and network professionals not elsewhere classified,2,2 Téc. y prof. científicos,44.67,4.07,0.091
+2611,Lawyers,2,2 Téc. y prof. científicos,34.76,3.38,0.097
+2612,Judges,2,2 Téc. y prof. científicos,40.26,3.65,0.091
+2619,Legal professionals not elsewhere classified,2,2 Téc. y prof. científicos,34.99,3.32,0.095
+2621,Archivists and curators,2,2 Téc. y prof. científicos,39.56,3.7,0.094
+2622,Librarians and related information professionals,2,2 Téc. y prof. científicos,37.77,3.26,0.086
+2631,Economists,2,2 Téc. y prof. científicos,44.47,4.38,0.098
+2632,"Sociologists, anthropologists and related professionals",2,2 Téc. y prof. científicos,41.48,4.0,0.097
+2633,"Philosophers, historians and political scientists",2,2 Téc. y prof. científicos,42.97,4.21,0.098
+2634,Psychologists,2,2 Téc. y prof. científicos,36.37,3.48,0.096
+2635,Social work and counselling professionals,2,2 Téc. y prof. científicos,30.01,2.68,0.089
+2636,Religious professionals,2,2 Téc. y prof. científicos,30.6,2.89,0.095
+2641,Authors and related writers,2,2 Téc. y prof. científicos,47.13,4.74,0.101
+2642,Journalists,2,2 Téc. y prof. científicos,43.36,4.22,0.097
+2643,"Translators, interpreters and other linguists",2,2 Téc. y prof. científicos,39.71,3.62,0.091
+2651,Visual artists,2,2 Téc. y prof. científicos,35.6,2.98,0.084
+2652,"Musicians, singers and composers",2,2 Téc. y prof. científicos,34.99,2.81,0.08
+2653,Dancers and choreographers,2,2 Téc. y prof. científicos,17.64,1.39,0.079
+2654,"Film, stage and related directors and producers",2,2 Téc. y prof. científicos,40.44,3.77,0.093
+2655,Actors,2,2 Téc. y prof. científicos,34.03,3.12,0.092
+2656,"Announcers on radio, television and other media",2,2 Téc. y prof. científicos,37.7,3.22,0.085
+3111,Chemical and physical science technicians,3,3 Téc. y prof. de apoyo,36.61,2.93,0.08
+3112,Civil engineering technicians,3,3 Téc. y prof. de apoyo,35.29,2.83,0.08
+3113,Electrical engineering technicians,3,3 Téc. y prof. de apoyo,34.74,2.56,0.074
+3114,Electronics engineering technicians,3,3 Téc. y prof. de apoyo,38.89,3.06,0.079
+3115,Mechanical engineering technicians,3,3 Téc. y prof. de apoyo,34.32,2.57,0.075
+3116,Chemical engineering technicians,3,3 Téc. y prof. de apoyo,35.79,2.79,0.078
+3117,Mining and metallurgical technicians,3,3 Téc. y prof. de apoyo,36.44,2.86,0.078
+3118,Draughtspersons,3,3 Téc. y prof. de apoyo,43.81,3.94,0.09
+3119,Physical and engineering science technicians not elsewhere classified,3,3 Téc. y prof. de apoyo,34.35,2.68,0.078
+3121,Mining supervisors,3,3 Téc. y prof. de apoyo,26.3,1.96,0.075
+3122,Manufacturing supervisors,3,3 Téc. y prof. de apoyo,28.1,2.12,0.076
+3123,Construction supervisors,3,3 Téc. y prof. de apoyo,26.3,1.96,0.075
+3131,Power production plant operators,3,3 Téc. y prof. de apoyo,33.89,2.54,0.075
+3132,Incinerator and water treatment plant operators,3,3 Téc. y prof. de apoyo,27.77,1.86,0.067
+3133,Chemical processing plant controllers,3,3 Téc. y prof. de apoyo,30.34,1.91,0.063
+3134,Petroleum and natural gas refining plant operators,3,3 Téc. y prof. de apoyo,29.64,1.85,0.062
+3135,Metal production process controllers,3,3 Téc. y prof. de apoyo,26.85,1.44,0.054
+3139,Process control technicians not elsewhere classified,3,3 Téc. y prof. de apoyo,35.41,2.69,0.076
+3141,Life science technicians (excluding medical),3,3 Téc. y prof. de apoyo,36.85,2.91,0.079
+3142,Agricultural technicians,3,3 Téc. y prof. de apoyo,35.73,2.76,0.077
+3143,Forestry technicians,3,3 Téc. y prof. de apoyo,27.03,1.89,0.07
+0315,Ship and aircraft controllers and technicians,0,0 Militares,34.5,2.72,0.079
+3151,Ships' engineers,3,3 Téc. y prof. de apoyo,29.95,2.17,0.072
+3152,Ships' deck officers and pilots,3,3 Téc. y prof. de apoyo,28.37,2.05,0.072
+3153,Aircraft pilots and related associate professionals,3,3 Téc. y prof. de apoyo,28.11,1.91,0.068
+3154,Air traffic controllers,3,3 Téc. y prof. de apoyo,34.36,2.74,0.08
+3155,Air traffic safety electronics technicians,3,3 Téc. y prof. de apoyo,38.89,3.06,0.079
+3211,Medical imaging and therapeutic equipment technicians,3,3 Téc. y prof. de apoyo,29.4,2.16,0.074
+3212,Medical and pathology laboratory technicians ,3,3 Téc. y prof. de apoyo,34.79,2.6,0.075
+3213,Pharmaceutical technicians and assistants,3,3 Téc. y prof. de apoyo,33.82,2.51,0.074
+3214,Medical and dental prosthetic technicians,3,3 Téc. y prof. de apoyo,32.91,2.43,0.074
+3221,Nursing associate professionals,3,3 Téc. y prof. de apoyo,22.77,1.63,0.071
+3222,Midwifery associate professionals,3,3 Téc. y prof. de apoyo,30.04,2.29,0.076
+3230,Traditional and complementary medicine associate professionals,3,3 Téc. y prof. de apoyo,30.04,2.29,0.076
+3240,Veterinary technicians and assistants,3,3 Téc. y prof. de apoyo,28.4,1.96,0.069
+3251,Dental assistants and therapists,3,3 Téc. y prof. de apoyo,28.05,1.92,0.068
+3252,Medical records and health information technicians,3,3 Téc. y prof. de apoyo,45.02,3.8,0.084
+3253,Community health workers,3,3 Téc. y prof. de apoyo,25.6,1.98,0.078
+3254,Dispensing opticians,3,3 Téc. y prof. de apoyo,31.78,2.46,0.078
+3255,Physiotherapy technicians and assistants,3,3 Téc. y prof. de apoyo,30.03,2.34,0.078
+3256,Medical assistants,3,3 Téc. y prof. de apoyo,32.23,2.48,0.077
+3257,Environmental and occupational health inspectors and associates,3,3 Téc. y prof. de apoyo,33.09,2.48,0.075
+3258,Ambulance workers,3,3 Téc. y prof. de apoyo,23.28,1.52,0.065
+3259,Health associate professionals not elsewhere classified,3,3 Téc. y prof. de apoyo,29.34,2.17,0.074
+3311,Securities and finance dealers and brokers,3,3 Téc. y prof. de apoyo,36.47,3.39,0.093
+3312,Credit and loans officers,3,3 Téc. y prof. de apoyo,39.92,3.58,0.09
+3313,Accounting associate professionals,3,3 Téc. y prof. de apoyo,43.66,3.71,0.085
+3314,"Statistical, mathematical and related associate professionals",3,3 Téc. y prof. de apoyo,47.37,4.35,0.092
+3315,Valuers and loss assessors,3,3 Téc. y prof. de apoyo,40.6,3.48,0.086
+3321,Insurance representatives,3,3 Téc. y prof. de apoyo,39.47,3.68,0.093
+3322,Commercial sales representatives,3,3 Téc. y prof. de apoyo,35.37,3.25,0.092
+3323,Buyers,3,3 Téc. y prof. de apoyo,36.8,3.31,0.09
+3324,Trade brokers,3,3 Téc. y prof. de apoyo,38.26,3.52,0.092
+3331,Clearing and forwarding agents,3,3 Téc. y prof. de apoyo,36.24,2.94,0.081
+3332,Conference and event planners,3,3 Téc. y prof. de apoyo,29.68,2.67,0.09
+3333,Employment agents and contractors,3,3 Téc. y prof. de apoyo,34.49,2.85,0.083
+3334,Real estate agents and property managers,3,3 Téc. y prof. de apoyo,35.07,3.2,0.091
+3339,Business services agents not elsewhere classified,3,3 Téc. y prof. de apoyo,37.87,3.52,0.093
+3341,Office supervisors,3,3 Téc. y prof. de apoyo,32.0,2.93,0.092
+3342,Legal secretaries,3,3 Téc. y prof. de apoyo,45.61,4.16,0.091
+3343,Administrative and executive secretaries,3,3 Téc. y prof. de apoyo,39.75,3.23,0.081
+3344,Medical secretaries,3,3 Téc. y prof. de apoyo,45.06,3.7,0.082
+3351,Customs and border inspectors,3,3 Téc. y prof. de apoyo,26.47,2.02,0.076
+3352,Government tax and excise officials,3,3 Téc. y prof. de apoyo,43.06,3.77,0.088
+3353,Government social benefits officials,3,3 Téc. y prof. de apoyo,37.55,3.23,0.086
+3354,Government licensing officials,3,3 Téc. y prof. de apoyo,38.87,3.34,0.086
+3355,Police inspectors and detectives,3,3 Téc. y prof. de apoyo,27.96,2.16,0.077
+3359,Regulatory government associate professionals not elsewhere classified,3,3 Téc. y prof. de apoyo,35.07,2.59,0.074
+3411,Legal and related associate professionals,3,3 Téc. y prof. de apoyo,39.83,3.38,0.085
+3412,Social work associate professionals,3,3 Téc. y prof. de apoyo,29.16,2.39,0.082
+3421,Athletes and sports players,3,3 Téc. y prof. de apoyo,18.68,1.21,0.065
+3422,"Sports coaches, instructors and officials",3,3 Téc. y prof. de apoyo,29.45,2.41,0.082
+3423,Fitness and recreation instructors and program leaders,3,3 Téc. y prof. de apoyo,26.86,2.17,0.081
+3431,Photographers,3,3 Téc. y prof. de apoyo,32.62,2.63,0.081
+3432,Interior designers and decorators,3,3 Téc. y prof. de apoyo,32.88,2.99,0.091
+3433,"Gallery, museum and library technicians",3,3 Téc. y prof. de apoyo,33.0,2.59,0.078
+3434,Chefs,3,3 Téc. y prof. de apoyo,25.69,1.97,0.077
+3435,Other artistic and cultural associate professionals,3,3 Téc. y prof. de apoyo,32.68,2.59,0.079
+3511,Information and communications technology operations technicians,3,3 Téc. y prof. de apoyo,35.68,2.79,0.078
+3512,Information and communications technology user support technicians,3,3 Téc. y prof. de apoyo,36.42,3.05,0.084
+3513,Computer network and systems technicians,3,3 Téc. y prof. de apoyo,44.41,3.77,0.085
+3514,Web technicians,3,3 Téc. y prof. de apoyo,43.13,3.86,0.089
+3521,Broadcasting and audio-visual technicians,3,3 Téc. y prof. de apoyo,35.4,2.64,0.074
+3522,Telecommunications engineering technicians,3,3 Téc. y prof. de apoyo,38.89,3.06,0.079
+4110,General office clerks,4,4 Empleados admin.,42.07,3.7,0.088
+4120,Secretaries (general),4,4 Empleados admin.,41.12,3.66,0.089
+4131,Typists and word processing operators,4,4 Empleados admin.,43.54,3.55,0.081
+4132,Data entry clerks,4,4 Empleados admin.,39.55,3.02,0.076
+4211,Bank tellers and related clerks,4,4 Empleados admin.,32.38,2.38,0.073
+4212,"Bookmakers, croupiers and related gaming workers",4,4 Empleados admin.,33.05,2.53,0.077
+4214,Debt-collectors and related workers,4,4 Empleados admin.,35.88,3.26,0.091
+4221,Travel consultants and clerks,4,4 Empleados admin.,32.95,2.92,0.089
+4222,Contact centre information clerks,4,4 Empleados admin.,37.28,3.21,0.086
+4223,Telephone switchboard operators,4,4 Empleados admin.,37.22,2.81,0.076
+4224,Hotel receptionists,4,4 Empleados admin.,34.16,2.9,0.085
+4225,Enquiry clerks,4,4 Empleados admin.,41.47,3.69,0.089
+4226,Receptionists (general),4,4 Empleados admin.,39.12,3.31,0.085
+4227,Survey and market research interviewers,4,4 Empleados admin.,39.82,3.37,0.085
+4229,Client information workers not elsewhere classified,4,4 Empleados admin.,39.25,3.44,0.088
+4311,Accounting and bookkeeping clerks,4,4 Empleados admin.,44.87,3.82,0.085
+4312,"Statistical, finance and insurance clerks",4,4 Empleados admin.,42.1,3.65,0.087
+4313,Payroll clerks,4,4 Empleados admin.,46.88,4.17,0.089
+4321,Stock clerks,4,4 Empleados admin.,31.5,2.21,0.07
+4322,Production clerks,4,4 Empleados admin.,38.93,3.38,0.087
+4323,Transport clerks,4,4 Empleados admin.,38.79,3.3,0.085
+4411,Library clerks,4,4 Empleados admin.,33.77,2.66,0.079
+4412,Mail carriers and sorting clerks,4,4 Empleados admin.,28.17,1.78,0.063
+4413,"Coding, proof-reading and related clerks",4,4 Empleados admin.,56.77,5.17,0.091
+4414,Scribes and related workers,4,4 Empleados admin.,28.36,2.23,0.079
+4415,Filing and copying clerks,4,4 Empleados admin.,35.97,2.83,0.079
+4416,Personnel clerks,4,4 Empleados admin.,43.0,4.02,0.094
+4419,Clerical support workers not elsewhere classified,4,4 Empleados admin.,40.16,3.54,0.088
+5111,Travel attendants and travel stewards,5,5 Servicios y vendedores,26.09,1.85,0.071
+5112,Transport conductors,5,5 Servicios y vendedores,27.93,2.06,0.074
+5113,Travel guides,5,5 Servicios y vendedores,31.3,2.61,0.083
+5120,Cooks,5,5 Servicios y vendedores,28.69,2.05,0.072
+5131,Waiters,5,5 Servicios y vendedores,27.1,1.79,0.066
+5132,Bartenders,5,5 Servicios y vendedores,25.4,1.79,0.07
+5141,Hairdressers,5,5 Servicios y vendedores,31.26,2.41,0.077
+5142,Beauticians and related workers,5,5 Servicios y vendedores,31.77,2.38,0.075
+5151,"Cleaning and housekeeping supervisors in offices, hotels and other establishments",5,5 Servicios y vendedores,24.66,1.82,0.074
+5152,Domestic housekeepers,5,5 Servicios y vendedores,24.66,1.82,0.074
+5153,Building caretakers,5,5 Servicios y vendedores,27.12,1.71,0.063
+5162,Companions and valets,5,5 Servicios y vendedores,28.36,2.23,0.079
+5163,Undertakers and embalmers,5,5 Servicios y vendedores,26.47,1.92,0.072
+5164,Pet groomers and animal care workers,5,5 Servicios y vendedores,28.21,2.04,0.072
+5165,Driving instructors,5,5 Servicios y vendedores,33.61,2.88,0.086
+5169,Personal services workers not elsewhere classified,5,5 Servicios y vendedores,28.71,2.36,0.082
+5211,Stall and market salespersons,5,5 Servicios y vendedores,35.67,3.45,0.097
+5212,Street food salespersons,5,5 Servicios y vendedores,32.95,2.74,0.083
+5221,Shopkeepers,5,5 Servicios y vendedores,30.14,2.66,0.088
+5222,Shop supervisors,5,5 Servicios y vendedores,25.5,1.98,0.078
+5223,Shop sales assistants,5,5 Servicios y vendedores,28.06,2.22,0.079
+5230,Cashiers and ticket clerks,5,5 Servicios y vendedores,30.97,2.12,0.068
+5241,Fashion and other models,5,5 Servicios y vendedores,29.56,2.57,0.087
+5242,Sales demonstrators,5,5 Servicios y vendedores,29.99,2.46,0.082
+5243,Door to door salespersons,5,5 Servicios y vendedores,35.67,3.45,0.097
+5244,Contact centre salespersons,5,5 Servicios y vendedores,35.19,3.08,0.088
+5245,Service station attendants,5,5 Servicios y vendedores,26.97,1.87,0.069
+5246,Food service counter attendants,5,5 Servicios y vendedores,26.31,1.73,0.066
+5249,Sales workers not elsewhere classified,5,5 Servicios y vendedores,29.8,2.24,0.075
+5311,Child care workers,5,5 Servicios y vendedores,28.43,2.33,0.082
+5312,Teachers' aides,5,5 Servicios y vendedores,35.12,3.08,0.088
+5321,Health care assistants,5,5 Servicios y vendedores,24.44,1.69,0.069
+5322,Home-based personal care workers,5,5 Servicios y vendedores,27.63,2.13,0.077
+5329,Personal care workers in health services not elsewhere classified,5,5 Servicios y vendedores,28.04,1.96,0.07
+5411,Fire-fighters,5,5 Servicios y vendedores,22.04,1.44,0.065
+5412,Police officers,5,5 Servicios y vendedores,22.53,1.55,0.069
+5413,Prison guards,5,5 Servicios y vendedores,22.04,1.48,0.067
+5414,Security guards,5,5 Servicios y vendedores,30.75,2.16,0.07
+5419,Protective services workers not elsewhere classified,5,5 Servicios y vendedores,28.91,2.01,0.07
+6111,Field crop and vegetable growers,6,6 Cualific. agric./pesca,26.11,1.51,0.058
+6112,Tree and shrub crop growers,6,6 Cualific. agric./pesca,26.11,1.51,0.058
+6113,"Gardeners, horticultural and nursery growers",6,6 Cualific. agric./pesca,24.26,1.4,0.058
+6114,Mixed crop growers,6,6 Cualific. agric./pesca,26.11,1.51,0.058
+6121,Livestock and dairy producers,6,6 Cualific. agric./pesca,27.36,1.84,0.067
+6122,Poultry producers,6,6 Cualific. agric./pesca,27.36,1.84,0.067
+6123,Apiarists and sericulturists,6,6 Cualific. agric./pesca,27.36,1.84,0.067
+6129,Animal producers not elsewhere classified,6,6 Cualific. agric./pesca,27.36,1.84,0.067
+6130,Mixed crop and animal producers,6,6 Cualific. agric./pesca,27.21,1.66,0.061
+6210,Forestry and related workers,6,6 Cualific. agric./pesca,25.95,1.57,0.061
+6221,Aquaculture workers,6,6 Cualific. agric./pesca,27.36,1.84,0.067
+6222,Inland and coastal waters fishery workers,6,6 Cualific. agric./pesca,23.92,1.48,0.062
+6223,Deep-sea fishery workers,6,6 Cualific. agric./pesca,23.92,1.48,0.062
+6224,Hunters and trappers,6,6 Cualific. agric./pesca,27.52,1.76,0.064
+6310,Subsistence crop farmers,6,6 Cualific. agric./pesca,23.44,1.32,0.056
+6320,Subsistence livestock farmers,6,6 Cualific. agric./pesca,26.05,1.58,0.061
+6330,Subsistence mixed crop and livestock farmers,6,6 Cualific. agric./pesca,24.75,1.45,0.059
+6340,"Subsistence fishers, hunters, trappers and gatherers",6,6 Cualific. agric./pesca,26.14,1.52,0.058
+7111,House builders,7,7 Artesanos manuf./constr.,34.83,3.07,0.088
+7112,Bricklayers and related workers,7,7 Artesanos manuf./constr.,24.77,1.46,0.059
+7113,"Stonemasons, stone cutters, splitters and carvers",7,7 Artesanos manuf./constr.,22.74,1.41,0.062
+7114,"Concrete placers, concrete finishers and related workers",7,7 Artesanos manuf./constr.,23.6,1.37,0.058
+7115,Carpenters and joiners,7,7 Artesanos manuf./constr.,24.48,1.57,0.064
+7119,Building frame and related trades workers not elsewhere classified,7,7 Artesanos manuf./constr.,25.0,1.6,0.064
+7121,Roofers,7,7 Artesanos manuf./constr.,21.32,1.22,0.057
+7122,Floor layers and tile setters,7,7 Artesanos manuf./constr.,24.69,1.55,0.063
+7123,Plasterers,7,7 Artesanos manuf./constr.,24.66,1.49,0.061
+7124,Insulation workers,7,7 Artesanos manuf./constr.,24.39,1.5,0.062
+7125,Glaziers,7,7 Artesanos manuf./constr.,26.51,1.63,0.062
+7126,Plumbers and pipe fitters,7,7 Artesanos manuf./constr.,25.82,1.63,0.063
+7127,Air conditioning and refrigeration mechanics,7,7 Artesanos manuf./constr.,27.24,1.89,0.069
+7131,Painters and related workers,7,7 Artesanos manuf./constr.,24.37,1.46,0.06
+7132,Spray painters and varnishers,7,7 Artesanos manuf./constr.,26.6,1.55,0.058
+7211,Metal moulders and coremakers,7,7 Artesanos manuf./constr.,25.9,1.42,0.055
+7212,Welders and flamecutters,7,7 Artesanos manuf./constr.,28.27,1.65,0.058
+7213,Sheet-metal workers,7,7 Artesanos manuf./constr.,28.78,1.85,0.064
+7214,Structural-metal preparers and erectors,7,7 Artesanos manuf./constr.,23.73,1.33,0.056
+7215,Riggers and cable splicers,7,7 Artesanos manuf./constr.,26.85,1.62,0.06
+7221,"Blacksmiths, hammersmiths and forging press workers",7,7 Artesanos manuf./constr.,29.2,1.8,0.062
+7222,Toolmakers and related workers,7,7 Artesanos manuf./constr.,32.87,2.28,0.069
+7223,Metal working machine tool setters and operators,7,7 Artesanos manuf./constr.,28.28,1.7,0.06
+7224,"Metal polishers, wheel grinders and tool sharpeners",7,7 Artesanos manuf./constr.,28.78,1.69,0.059
+7231,Motor vehicle mechanics and repairers,7,7 Artesanos manuf./constr.,27.6,1.69,0.061
+7232,Aircraft engine mechanics and repairers,7,7 Artesanos manuf./constr.,28.16,1.95,0.069
+7233,Agricultural and industrial machinery mechanics and repairers,7,7 Artesanos manuf./constr.,26.36,1.61,0.061
+7234,Bicycle and related repairers,7,7 Artesanos manuf./constr.,26.96,1.93,0.072
+7311,Precision-instrument makers and repairers,7,7 Artesanos manuf./constr.,35.68,2.58,0.072
+7312,Musical instrument makers and tuners,7,7 Artesanos manuf./constr.,28.17,1.87,0.066
+7313,Jewellery and precious-metal workers,7,7 Artesanos manuf./constr.,37.33,2.58,0.069
+7314,Potters and related workers,7,7 Artesanos manuf./constr.,29.92,2.14,0.071
+7315,"Glass makers, cutters, grinders and finishers",7,7 Artesanos manuf./constr.,28.49,1.7,0.06
+7316,"Sign writers, decorative painters, engravers and etchers",7,7 Artesanos manuf./constr.,30.95,1.96,0.063
+7317,"Handicraft workers in wood, basketry and related materials",7,7 Artesanos manuf./constr.,31.77,2.49,0.078
+7318,"Handicraft workers in textile, leather and related materials",7,7 Artesanos manuf./constr.,28.46,1.6,0.056
+7319,Handicraft workers not elsewhere classified,7,7 Artesanos manuf./constr.,31.77,2.49,0.078
+7321,Pre-press technicians,7,7 Artesanos manuf./constr.,38.59,3.21,0.083
+7322,Printers ,7,7 Artesanos manuf./constr.,28.97,1.94,0.067
+7323,Print finishing and binding workers,7,7 Artesanos manuf./constr.,27.91,1.77,0.064
+7411,Building and related electricians,7,7 Artesanos manuf./constr.,28.09,1.9,0.068
+7412,Electrical mechanics and fitters,7,7 Artesanos manuf./constr.,29.13,1.93,0.066
+7413,Electrical line installers and repairers ,7,7 Artesanos manuf./constr.,26.08,1.79,0.069
+7421,Electronics mechanics and servicers,7,7 Artesanos manuf./constr.,30.51,2.15,0.07
+7422,Information and communications technology installers and servicers,7,7 Artesanos manuf./constr.,29.56,2.02,0.068
+7511,"Butchers, fishmongers and related food preparers",7,7 Artesanos manuf./constr.,25.48,1.47,0.058
+7512,"Bakers, pastry-cooks and confectionery makers",7,7 Artesanos manuf./constr.,34.69,2.5,0.072
+7513,Dairy-products makers,7,7 Artesanos manuf./constr.,29.24,1.82,0.062
+7514,"Fruit, vegetable and related preservers",7,7 Artesanos manuf./constr.,31.01,1.88,0.06
+7515,Food and beverage tasters and graders,7,7 Artesanos manuf./constr.,30.95,2.01,0.065
+7516,Tobacco preparers and tobacco products makers,7,7 Artesanos manuf./constr.,27.52,1.6,0.058
+7521,Wood treaters,7,7 Artesanos manuf./constr.,26.39,1.51,0.057
+7522,Cabinet-makers and related workers,7,7 Artesanos manuf./constr.,28.23,1.78,0.063
+7523,Woodworking-machine tool setters and operators,7,7 Artesanos manuf./constr.,28.56,1.61,0.056
+7531,"Tailors, dressmakers, furriers and hatters",7,7 Artesanos manuf./constr.,32.83,2.32,0.071
+7532,Garment and related pattern-makers and cutters,7,7 Artesanos manuf./constr.,30.46,2.05,0.067
+7533,"Sewing, embroidery and related workers",7,7 Artesanos manuf./constr.,30.22,1.78,0.059
+7534,Upholsterers and related workers,7,7 Artesanos manuf./constr.,26.26,1.68,0.064
+7535,"Pelt dressers, tanners and fellmongers",7,7 Artesanos manuf./constr.,26.83,1.43,0.053
+7536,Shoemakers and related workers,7,7 Artesanos manuf./constr.,28.46,1.6,0.056
+7541,Underwater divers,7,7 Artesanos manuf./constr.,24.4,1.54,0.063
+7542,Shotfirers and blasters,7,7 Artesanos manuf./constr.,27.44,1.7,0.062
+7543,Product graders and testers (excluding foods and beverages),7,7 Artesanos manuf./constr.,37.23,2.68,0.072
+7544,Fumigators and other pest and weed controllers,7,7 Artesanos manuf./constr.,26.15,1.78,0.068
+7549,Craft and related workers not elsewhere classified,7,7 Artesanos manuf./constr.,32.55,2.44,0.075
+8111,Miners and quarriers,8,8 Operadores instal./maquinaria,24.49,1.28,0.052
+8112,Mineral and stone processing plant operators,8,8 Operadores instal./maquinaria,26.01,1.48,0.057
+8113,Well drillers and borers and related workers,8,8 Operadores instal./maquinaria,25.62,1.45,0.057
+8114,"Cement, stone and other mineral products machine operators",8,8 Operadores instal./maquinaria,26.85,1.61,0.06
+8121,Metal processing plant operators,8,8 Operadores instal./maquinaria,26.45,1.47,0.055
+8122,"Metal finishing, plating and coating machine operators",8,8 Operadores instal./maquinaria,27.81,1.65,0.059
+8131,Chemical products plant and machine operators,8,8 Operadores instal./maquinaria,28.34,1.79,0.063
+8132,Photographic products machine operators,8,8 Operadores instal./maquinaria,30.09,2.18,0.073
+8141,Rubber products machine operators,8,8 Operadores instal./maquinaria,26.39,1.51,0.057
+8142,Plastic products machine operators,8,8 Operadores instal./maquinaria,27.91,1.66,0.059
+8143,Paper products machine operators,8,8 Operadores instal./maquinaria,27.2,1.56,0.057
+8151,"Fibre preparing, spinning and winding machine operators",8,8 Operadores instal./maquinaria,24.65,1.33,0.054
+8152,Weaving and knitting machine operators,8,8 Operadores instal./maquinaria,26.74,1.36,0.051
+8153,Sewing machine operators,8,8 Operadores instal./maquinaria,31.27,1.78,0.057
+8154,"Bleaching, dyeing and fabric cleaning machine operators",8,8 Operadores instal./maquinaria,28.43,1.76,0.062
+8156,Shoemaking and related machine operators,8,8 Operadores instal./maquinaria,30.54,1.85,0.06
+8157,Laundry machine operators,8,8 Operadores instal./maquinaria,27.65,1.71,0.062
+8160,Food and related products machine operators,8,8 Operadores instal./maquinaria,29.26,1.79,0.061
+8171,Pulp and papermaking plant operators,8,8 Operadores instal./maquinaria,28.59,1.67,0.058
+8172,Wood processing plant operators,8,8 Operadores instal./maquinaria,27.65,1.53,0.055
+8181,Glass and ceramics plant operators,8,8 Operadores instal./maquinaria,27.06,1.59,0.059
+8182,Steam engine and boiler operators,8,8 Operadores instal./maquinaria,30.38,1.91,0.063
+8183,"Packing, bottling and labelling machine operators",8,8 Operadores instal./maquinaria,26.52,1.58,0.059
+8189,Stationary plant and machine operators not elsewhere classified,8,8 Operadores instal./maquinaria,27.96,1.73,0.062
+8211,Mechanical machinery assemblers,8,8 Operadores instal./maquinaria,29.47,1.86,0.063
+8212,Electrical and electronic equipment assemblers,8,8 Operadores instal./maquinaria,33.82,2.18,0.064
+8219,Assemblers not elsewhere classified,8,8 Operadores instal./maquinaria,28.26,1.76,0.062
+8311,Locomotive engine drivers,8,8 Operadores instal./maquinaria,26.97,1.57,0.058
+8312,"Railway brake, signal and switch operators",8,8 Operadores instal./maquinaria,27.12,1.83,0.068
+8321,Motorcycle drivers,8,8 Operadores instal./maquinaria,28.49,2.0,0.07
+8322,"Car, taxi and van drivers",8,8 Operadores instal./maquinaria,26.62,1.72,0.065
+8331,Bus and tram drivers,8,8 Operadores instal./maquinaria,28.35,1.73,0.061
+8332,Heavy truck and lorry drivers,8,8 Operadores instal./maquinaria,27.5,1.85,0.067
+8341,Mobile farm and forestry plant operators,8,8 Operadores instal./maquinaria,26.49,1.34,0.051
+8342,Earthmoving and related plant operators,8,8 Operadores instal./maquinaria,25.55,1.33,0.052
+8343,"Crane, hoist and related plant operators",8,8 Operadores instal./maquinaria,27.17,1.72,0.063
+8344,Lifting truck operators,8,8 Operadores instal./maquinaria,27.36,1.79,0.065
+8350,Ships' deck crews and related workers,8,8 Operadores instal./maquinaria,24.38,1.38,0.056
+9111,Domestic cleaners and helpers,9,9 Ocupaciones elementales,24.86,1.61,0.065
+9112,"Cleaners and helpers in offices, hotels and other establishments",9,9 Ocupaciones elementales,25.85,1.56,0.06
+9121,Hand launderers and pressers,9,9 Ocupaciones elementales,24.4,1.12,0.046
+9122,Vehicle cleaners,9,9 Ocupaciones elementales,25.57,1.37,0.053
+9123,Window cleaners,9,9 Ocupaciones elementales,27.12,1.71,0.063
+9129,Other cleaning workers,9,9 Ocupaciones elementales,24.96,1.39,0.056
+9211,Crop farm labourers,9,9 Ocupaciones elementales,23.44,1.32,0.056
+9212,Livestock farm labourers,9,9 Ocupaciones elementales,26.05,1.58,0.061
+9213,Mixed crop and livestock farm labourers,9,9 Ocupaciones elementales,24.75,1.45,0.059
+9214,Garden and horticultural labourers,9,9 Ocupaciones elementales,23.39,1.3,0.055
+9215,Forestry labourers,9,9 Ocupaciones elementales,25.37,1.61,0.064
+9216,Fishery and aquaculture labourers,9,9 Ocupaciones elementales,24.29,1.41,0.058
+9311,Mining and quarrying labourers,9,9 Ocupaciones elementales,24.42,1.39,0.057
+9312,Civil engineering labourers,9,9 Ocupaciones elementales,24.36,1.34,0.055
+9313,Building construction labourers,9,9 Ocupaciones elementales,23.39,1.34,0.057
+9321,Hand packers,9,9 Ocupaciones elementales,26.38,1.47,0.056
+9329,Manufacturing labourers not elsewhere classified,9,9 Ocupaciones elementales,26.0,1.45,0.056
+9331,Hand and pedal vehicle drivers,9,9 Ocupaciones elementales,26.92,1.63,0.061
+9333,Freight handlers,9,9 Ocupaciones elementales,25.75,1.67,0.065
+9334,Shelf fillers,9,9 Ocupaciones elementales,30.24,2.11,0.07
+9411,Fast food preparers,9,9 Ocupaciones elementales,28.38,1.92,0.068
+9412,Kitchen helpers,9,9 Ocupaciones elementales,24.38,1.42,0.058
+9520,Street vendors (excluding food),9,9 Ocupaciones elementales,35.67,3.45,0.097
+9611,Garbage and recycling collectors,9,9 Ocupaciones elementales,27.35,1.88,0.069
+9612,Refuse sorters,9,9 Ocupaciones elementales,24.62,1.4,0.057
+9621,"Messengers, package deliverers and luggage porters",9,9 Ocupaciones elementales,24.52,1.47,0.06
+9622,Odd job persons,9,9 Ocupaciones elementales,28.6,1.78,0.062
+9623,Meter readers and vending-machine collectors,9,9 Ocupaciones elementales,29.22,1.86,0.064
+9624,Water and firewood collectors,9,9 Ocupaciones elementales,23.59,1.31,0.056
+9629,Elementary workers not elsewhere classified,9,9 Ocupaciones elementales,29.66,1.98,0.067
