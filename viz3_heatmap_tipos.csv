@@ -1,5 +1,4 @@
 grupo_label,tipo_IA,DAIOE_medio
-0 Militares,Juegos estrategia,0.33
 1 Directores/gerentes,Juegos estrategia,0.27
 2 Téc. y prof. científicos,Juegos estrategia,0.31
 3 Téc. y prof. de apoyo,Juegos estrategia,0.29
@@ -9,7 +8,6 @@ grupo_label,tipo_IA,DAIOE_medio
 7 Artesanos manuf./constr.,Juegos estrategia,0.25
 8 Operadores instal./maquinaria,Juegos estrategia,0.25
 9 Ocupaciones elementales,Juegos estrategia,0.22
-0 Militares,Videojuegos,5.07
 1 Directores/gerentes,Videojuegos,3.91
 2 Téc. y prof. científicos,Videojuegos,4.5
 3 Téc. y prof. de apoyo,Videojuegos,4.94
@@ -19,7 +17,6 @@ grupo_label,tipo_IA,DAIOE_medio
 7 Artesanos manuf./constr.,Videojuegos,5.77
 8 Operadores instal./maquinaria,Videojuegos,5.9
 9 Ocupaciones elementales,Videojuegos,5.43
-0 Militares,Reconoc. imágenes,0.59
 1 Directores/gerentes,Reconoc. imágenes,0.44
 2 Téc. y prof. científicos,Reconoc. imágenes,0.5
 3 Téc. y prof. de apoyo,Reconoc. imágenes,0.46
@@ -29,7 +26,6 @@ grupo_label,tipo_IA,DAIOE_medio
 7 Artesanos manuf./constr.,Reconoc. imágenes,0.39
 8 Operadores instal./maquinaria,Reconoc. imágenes,0.39
 9 Ocupaciones elementales,Reconoc. imágenes,0.36
-0 Militares,Comprensión imágenes,0.3
 1 Directores/gerentes,Comprensión imágenes,0.24
 2 Téc. y prof. científicos,Comprensión imágenes,0.27
 3 Téc. y prof. de apoyo,Comprensión imágenes,0.24
@@ -39,7 +35,6 @@ grupo_label,tipo_IA,DAIOE_medio
 7 Artesanos manuf./constr.,Comprensión imágenes,0.19
 8 Operadores instal./maquinaria,Comprensión imágenes,0.18
 9 Ocupaciones elementales,Comprensión imágenes,0.17
-0 Militares,Gen. imágenes,0.94
 1 Directores/gerentes,Gen. imágenes,0.75
 2 Téc. y prof. científicos,Gen. imágenes,0.88
 3 Téc. y prof. de apoyo,Gen. imágenes,0.71
@@ -49,7 +44,6 @@ grupo_label,tipo_IA,DAIOE_medio
 7 Artesanos manuf./constr.,Gen. imágenes,0.57
 8 Operadores instal./maquinaria,Gen. imágenes,0.51
 9 Ocupaciones elementales,Gen. imágenes,0.47
-0 Militares,Comprensión lectora,0.5
 1 Directores/gerentes,Comprensión lectora,0.44
 2 Téc. y prof. científicos,Comprensión lectora,0.51
 3 Téc. y prof. de apoyo,Comprensión lectora,0.38
@@ -59,7 +53,6 @@ grupo_label,tipo_IA,DAIOE_medio
 7 Artesanos manuf./constr.,Comprensión lectora,0.22
 8 Operadores instal./maquinaria,Comprensión lectora,0.2
 9 Ocupaciones elementales,Comprensión lectora,0.2
-0 Militares,Modelos lenguaje,1.18
 1 Directores/gerentes,Modelos lenguaje,1.08
 2 Téc. y prof. científicos,Modelos lenguaje,1.23
 3 Téc. y prof. de apoyo,Modelos lenguaje,0.94
@@ -69,7 +62,6 @@ grupo_label,tipo_IA,DAIOE_medio
 7 Artesanos manuf./constr.,Modelos lenguaje,0.55
 8 Operadores instal./maquinaria,Modelos lenguaje,0.5
 9 Ocupaciones elementales,Modelos lenguaje,0.51
-0 Militares,Traducción,0.05
 1 Directores/gerentes,Traducción,0.04
 2 Téc. y prof. científicos,Traducción,0.05
 3 Téc. y prof. de apoyo,Traducción,0.04
@@ -79,7 +71,6 @@ grupo_label,tipo_IA,DAIOE_medio
 7 Artesanos manuf./constr.,Traducción,0.02
 8 Operadores instal./maquinaria,Traducción,0.02
 9 Ocupaciones elementales,Traducción,0.02
-0 Militares,Reconoc. voz,0.82
 1 Directores/gerentes,Reconoc. voz,0.78
 2 Téc. y prof. científicos,Reconoc. voz,0.87
 3 Téc. y prof. de apoyo,Reconoc. voz,0.72
@@ -89,7 +80,6 @@ grupo_label,tipo_IA,DAIOE_medio
 7 Artesanos manuf./constr.,Reconoc. voz,0.46
 8 Operadores instal./maquinaria,Reconoc. voz,0.45
 9 Ocupaciones elementales,Reconoc. voz,0.45
-0 Militares,IA generativa,3.49
 1 Directores/gerentes,IA generativa,3.0
 2 Téc. y prof. científicos,IA generativa,3.45
 3 Téc. y prof. de apoyo,IA generativa,2.71

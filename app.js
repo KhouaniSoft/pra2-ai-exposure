@@ -634,7 +634,7 @@ function renderSpain() {
   setHeader(
     "Exposición y volumen de empleo en España",
     "España · EPA 2023",
-    "El tamaño del punto representa ocupados. Pasa el cursor para leer volumen, exposición y número de ocupaciones. El grupo 0 (Militares) se basa en 2 ocupaciones con datos disponibles; su DAIOE debe interpretarse con cautela.",
+    "El tamaño del punto representa ocupados. Pasa el cursor para leer volumen, exposición y número de ocupaciones.",
     "Fuente: AI Economics Lab, DAIOE-ISCO08; INE, Encuesta de Población Activa, 2023. Elaboración: A. Khouani.",
   );
 

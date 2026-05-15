@@ -29,7 +29,6 @@ codigo_isco,ocupacion,isco_1digit,gran_grupo,DAIOE_total,DAIOE_genai,ratio_genai
 1420,Retail and wholesale trade managers,1,1 Directores/gerentes,30.14,2.66,0.088
 1431,"Sports, recreation and cultural centre managers",1,1 Directores/gerentes,32.54,2.84,0.087
 1439,Services managers not elsewhere classified,1,1 Directores/gerentes,36.05,3.27,0.091
-0211,Physical and earth science professionals,0,0 Militares,45.51,4.26,0.094
 2111,Physicists and astronomers,2,2 Téc. y prof. científicos,43.48,4.28,0.098
 2112,Meteorologists,2,2 Téc. y prof. científicos,44.17,4.19,0.095
 2113,Chemists,2,2 Téc. y prof. científicos,41.23,3.62,0.088
@@ -142,7 +141,6 @@ codigo_isco,ocupacion,isco_1digit,gran_grupo,DAIOE_total,DAIOE_genai,ratio_genai
 3141,Life science technicians (excluding medical),3,3 Téc. y prof. de apoyo,36.85,2.91,0.079
 3142,Agricultural technicians,3,3 Téc. y prof. de apoyo,35.73,2.76,0.077
 3143,Forestry technicians,3,3 Téc. y prof. de apoyo,27.03,1.89,0.07
-0315,Ship and aircraft controllers and technicians,0,0 Militares,34.5,2.72,0.079
 3151,Ships' engineers,3,3 Téc. y prof. de apoyo,29.95,2.17,0.072
 3152,Ships' deck officers and pilots,3,3 Téc. y prof. de apoyo,28.37,2.05,0.072
 3153,Aircraft pilots and related associate professionals,3,3 Téc. y prof. de apoyo,28.11,1.91,0.068
