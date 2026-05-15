@@ -380,7 +380,7 @@ function renderTopBottom() {
   g.append("line").attr("class", "threshold").attr("x1", x(33)).attr("x2", x(33)).attr("y1", -12).attr("y2", innerHeight);
   const thresholdLabel = g.append("g").attr("class", "threshold-label").attr("transform", `translate(${x(33) + 7},-18)`);
   thresholdLabel.append("rect").attr("x", -4).attr("y", -13).attr("width", 90).attr("height", 18).attr("rx", 3);
-  thresholdLabel.append("text").attr("class", "event-label").text("umbral 33 (p65)");
+  thresholdLabel.append("text").attr("class", "event-label").text("umbral 33 (p59)");
 
   const bars = g
     .selectAll(".bar")
