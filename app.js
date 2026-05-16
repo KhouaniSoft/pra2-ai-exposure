@@ -361,7 +361,7 @@ function renderTopBottom() {
   const { mobile } = viewportState();
   const { g, innerWidth, innerHeight } = makeSvg({
     height: (viewport) => (viewport.compact ? 520 : viewport.mobile ? 590 : 620),
-    left: (viewport) => (viewport.mobile ? viewport.narrow ? 150 : 180 : 285),
+    left: (viewport) => (viewport.mobile ? viewport.narrow ? 160 : 190 : 295),
     right: (viewport) => (viewport.mobile ? 28 : 42),
     minWidth: (viewport) => (viewport.mobile ? viewport.narrow ? 620 : 680 : 560),
   });
@@ -421,23 +421,23 @@ function renderHeatmap() {
   const data = store.heatmap;
   const groups = [...new Set(data.map((d) => d.grupo_label))];
   const types = [...new Set(data.map((d) => d.tipo_IA))];
-  const color = d3.scaleSequential(d3.interpolateViridis).domain(d3.extent(data, (d) => d.DAIOE_medio));
+  const color = d3.scaleSequential(d3.interpolateViridis).domain([0, 100]);
 
   setHeader(
     "Tipos de IA por grupo ocupacional",
     "Tipos de IA · 2023",
-    "Pasa el cursor por una celda para cruzar tipo de IA, grupo ocupacional y exposición media.",
+    "Cada celda muestra el percentil medio del grupo dentro del subdominio de IA (0-100). Permite comparar el peso relativo entre tipos, evitando que las escalas absolutas dispares enmascaren el patrón. Pasa el cursor por una celda para ver el detalle.",
     "Fuente: AI Economics Lab, DAIOE-ISCO08, 2023. Elaboración: A. Khouani.",
   );
   legend.selectAll("*").remove();
   const scaleLegend = legend.append("div").attr("class", "scale-legend").style("display", "flex").style("align-items", "center").style("gap", "0.8rem");
-  scaleLegend.append("span").style("font-size", "0.75rem").style("color", "var(--muted)").text("Exposición: Baja");
+  scaleLegend.append("span").style("font-size", "0.75rem").style("color", "var(--muted)").text("Percentil dentro del subdominio: Bajo");
   const gradient = scaleLegend.append("div").style("width", "120px").style("height", "8px").style("border-radius", "4px").style("background", "linear-gradient(90deg, #440154, #21918c, #fde725)");
-  scaleLegend.append("span").style("font-size", "0.75rem").style("color", "var(--muted)").text("Alta");
+  scaleLegend.append("span").style("font-size", "0.75rem").style("color", "var(--muted)").text("Alto");
 
   const { g, innerWidth, innerHeight } = makeSvg({
     top: (viewport) => (viewport.mobile ? 82 : 95),
-    left: (viewport) => (viewport.mobile ? 128 : 155),
+    left: (viewport) => (viewport.mobile ? 150 : 190),
     right: 28,
     height: (viewport) => (viewport.compact ? 480 : 570),
     minWidth: (viewport) => (viewport.mobile ? 700 : 560),
@@ -460,9 +460,9 @@ function renderHeatmap() {
     .attr("opacity", 0)
     .on("pointerenter", function (event, d) {
       d3.selectAll(".heat-cell").attr("opacity", (c) => (c.tipo_IA === d.tipo_IA || c.grupo_label === d.grupo_label ? 1 : 0.25));
-      showTooltip(event, `<strong>${shortGroup(d.grupo_label)}</strong>${d.tipo_IA}<br>DAIOE medio: ${formatEsOneDecimal(d.DAIOE_medio)}`);
+      showTooltip(event, `<strong>${shortGroup(d.grupo_label)}</strong>${d.tipo_IA}<br>Percentil medio: ${formatEsOneDecimal(d.DAIOE_medio)}`);
     })
-    .on("pointermove", (event, d) => showTooltip(event, `<strong>${shortGroup(d.grupo_label)}</strong>${d.tipo_IA}<br>DAIOE medio: ${formatEsOneDecimal(d.DAIOE_medio)}`))
+    .on("pointermove", (event, d) => showTooltip(event, `<strong>${shortGroup(d.grupo_label)}</strong>${d.tipo_IA}<br>Percentil medio: ${formatEsOneDecimal(d.DAIOE_medio)}`))
     .on("pointerleave", () => {
       d3.selectAll(".heat-cell").attr("opacity", 1);
       hideTooltip();
@@ -599,7 +599,7 @@ function renderGenai() {
   const y = d3.scaleLinear().domain(d3.extent(data, (d) => d.ratio_genai)).nice().range([innerHeight, 0]);
 
   g.append("g").attr("class", "grid").call(d3.axisLeft(y).tickSize(-innerWidth).tickFormat("")).select(".domain").remove();
-  addAxes(g, d3.axisBottom(x), d3.axisLeft(y).tickFormat(formatEsPercent0), innerHeight);
+  addAxes(g, d3.axisBottom(x), d3.axisLeft(y).tickFormat(formatEsPercent1), innerHeight);
   addXAxisLabel(g, "DAIOE total", innerWidth, innerHeight);
   addYAxisLabel(g, "Ratio GenAI (%)", innerHeight);
 
@@ -701,7 +701,7 @@ function renderGender() {
 
   const { g, innerWidth, innerHeight } = makeSvg({
     height: (viewport) => (viewport.compact ? 500 : 570),
-    left: (viewport) => (viewport.mobile ? 150 : 190),
+    left: (viewport) => (viewport.mobile ? 160 : 200),
     right: (viewport) => (viewport.mobile ? 36 : 42),
     minWidth: (viewport) => (viewport.mobile ? 640 : 520),
   });

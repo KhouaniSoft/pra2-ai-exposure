@@ -1,3 +1,4 @@
+**🌐 Sitio en vivo:** https://khouanisoft.github.io/pra2-ai-exposure/
 # Exposición de las ocupaciones a la Inteligencia Artificial
 
 ## Evolución temporal y contexto español (2010-2023)

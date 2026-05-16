@@ -1,91 +1,91 @@
 grupo_label,tipo_IA,DAIOE_medio
-1 Directores/gerentes,Juegos estrategia,0.27
-2 Téc. y prof. científicos,Juegos estrategia,0.31
-3 Téc. y prof. de apoyo,Juegos estrategia,0.29
-4 Empleados admin.,Juegos estrategia,0.3
-5 Servicios y vendedores,Juegos estrategia,0.23
-6 Cualific. agric./pesca,Juegos estrategia,0.23
-7 Artesanos manuf./constr.,Juegos estrategia,0.25
-8 Operadores instal./maquinaria,Juegos estrategia,0.25
-9 Ocupaciones elementales,Juegos estrategia,0.22
-1 Directores/gerentes,Videojuegos,3.91
-2 Téc. y prof. científicos,Videojuegos,4.5
-3 Téc. y prof. de apoyo,Videojuegos,4.94
-4 Empleados admin.,Videojuegos,4.81
-5 Servicios y vendedores,Videojuegos,4.35
-6 Cualific. agric./pesca,Videojuegos,5.35
-7 Artesanos manuf./constr.,Videojuegos,5.77
-8 Operadores instal./maquinaria,Videojuegos,5.9
-9 Ocupaciones elementales,Videojuegos,5.43
-1 Directores/gerentes,Reconoc. imágenes,0.44
-2 Téc. y prof. científicos,Reconoc. imágenes,0.5
-3 Téc. y prof. de apoyo,Reconoc. imágenes,0.46
-4 Empleados admin.,Reconoc. imágenes,0.49
-5 Servicios y vendedores,Reconoc. imágenes,0.36
-6 Cualific. agric./pesca,Reconoc. imágenes,0.38
-7 Artesanos manuf./constr.,Reconoc. imágenes,0.39
-8 Operadores instal./maquinaria,Reconoc. imágenes,0.39
-9 Ocupaciones elementales,Reconoc. imágenes,0.36
-1 Directores/gerentes,Comprensión imágenes,0.24
-2 Téc. y prof. científicos,Comprensión imágenes,0.27
-3 Téc. y prof. de apoyo,Comprensión imágenes,0.24
-4 Empleados admin.,Comprensión imágenes,0.27
-5 Servicios y vendedores,Comprensión imágenes,0.19
-6 Cualific. agric./pesca,Comprensión imágenes,0.18
-7 Artesanos manuf./constr.,Comprensión imágenes,0.19
-8 Operadores instal./maquinaria,Comprensión imágenes,0.18
-9 Ocupaciones elementales,Comprensión imágenes,0.17
-1 Directores/gerentes,Gen. imágenes,0.75
-2 Téc. y prof. científicos,Gen. imágenes,0.88
-3 Téc. y prof. de apoyo,Gen. imágenes,0.71
-4 Empleados admin.,Gen. imágenes,0.75
-5 Servicios y vendedores,Gen. imágenes,0.56
-6 Cualific. agric./pesca,Gen. imágenes,0.5
-7 Artesanos manuf./constr.,Gen. imágenes,0.57
-8 Operadores instal./maquinaria,Gen. imágenes,0.51
-9 Ocupaciones elementales,Gen. imágenes,0.47
-1 Directores/gerentes,Comprensión lectora,0.44
-2 Téc. y prof. científicos,Comprensión lectora,0.51
-3 Téc. y prof. de apoyo,Comprensión lectora,0.38
-4 Empleados admin.,Comprensión lectora,0.48
-5 Servicios y vendedores,Comprensión lectora,0.31
-6 Cualific. agric./pesca,Comprensión lectora,0.19
-7 Artesanos manuf./constr.,Comprensión lectora,0.22
-8 Operadores instal./maquinaria,Comprensión lectora,0.2
-9 Ocupaciones elementales,Comprensión lectora,0.2
-1 Directores/gerentes,Modelos lenguaje,1.08
-2 Téc. y prof. científicos,Modelos lenguaje,1.23
-3 Téc. y prof. de apoyo,Modelos lenguaje,0.94
-4 Empleados admin.,Modelos lenguaje,1.23
-5 Servicios y vendedores,Modelos lenguaje,0.79
-6 Cualific. agric./pesca,Modelos lenguaje,0.48
-7 Artesanos manuf./constr.,Modelos lenguaje,0.55
-8 Operadores instal./maquinaria,Modelos lenguaje,0.5
-9 Ocupaciones elementales,Modelos lenguaje,0.51
-1 Directores/gerentes,Traducción,0.04
-2 Téc. y prof. científicos,Traducción,0.05
-3 Téc. y prof. de apoyo,Traducción,0.04
-4 Empleados admin.,Traducción,0.05
-5 Servicios y vendedores,Traducción,0.03
-6 Cualific. agric./pesca,Traducción,0.02
-7 Artesanos manuf./constr.,Traducción,0.02
-8 Operadores instal./maquinaria,Traducción,0.02
-9 Ocupaciones elementales,Traducción,0.02
-1 Directores/gerentes,Reconoc. voz,0.78
-2 Téc. y prof. científicos,Reconoc. voz,0.87
-3 Téc. y prof. de apoyo,Reconoc. voz,0.72
-4 Empleados admin.,Reconoc. voz,1.01
-5 Servicios y vendedores,Reconoc. voz,0.69
-6 Cualific. agric./pesca,Reconoc. voz,0.43
-7 Artesanos manuf./constr.,Reconoc. voz,0.46
-8 Operadores instal./maquinaria,Reconoc. voz,0.45
-9 Ocupaciones elementales,Reconoc. voz,0.45
-1 Directores/gerentes,IA generativa,3.0
-2 Téc. y prof. científicos,IA generativa,3.45
-3 Téc. y prof. de apoyo,IA generativa,2.71
-4 Empleados admin.,IA generativa,3.23
-5 Servicios y vendedores,IA generativa,2.21
-6 Cualific. agric./pesca,IA generativa,1.61
-7 Artesanos manuf./constr.,IA generativa,1.85
-8 Operadores instal./maquinaria,IA generativa,1.66
-9 Ocupaciones elementales,IA generativa,1.61
+1 Directores/gerentes,Juegos estrategia,56.2
+2 Téc. y prof. científicos,Juegos estrategia,72.7
+3 Téc. y prof. de apoyo,Juegos estrategia,60.5
+4 Empleados admin.,Juegos estrategia,69.8
+5 Servicios y vendedores,Juegos estrategia,21.7
+6 Cualific. agric./pesca,Juegos estrategia,21.2
+7 Artesanos manuf./constr.,Juegos estrategia,40.5
+8 Operadores instal./maquinaria,Juegos estrategia,36.7
+9 Ocupaciones elementales,Juegos estrategia,16.8
+1 Directores/gerentes,Videojuegos,14.0
+2 Téc. y prof. científicos,Videojuegos,33.2
+3 Téc. y prof. de apoyo,Videojuegos,48.7
+4 Empleados admin.,Videojuegos,42.8
+5 Servicios y vendedores,Videojuegos,27.5
+6 Cualific. agric./pesca,Videojuegos,64.4
+7 Artesanos manuf./constr.,Videojuegos,77.8
+8 Operadores instal./maquinaria,Videojuegos,82.0
+9 Ocupaciones elementales,Videojuegos,66.8
+1 Directores/gerentes,Reconoc. imágenes,55.4
+2 Téc. y prof. científicos,Reconoc. imágenes,70.7
+3 Téc. y prof. de apoyo,Reconoc. imágenes,60.0
+4 Empleados admin.,Reconoc. imágenes,69.9
+5 Servicios y vendedores,Reconoc. imágenes,22.9
+6 Cualific. agric./pesca,Reconoc. imágenes,33.4
+7 Artesanos manuf./constr.,Reconoc. imágenes,36.4
+8 Operadores instal./maquinaria,Reconoc. imágenes,36.4
+9 Ocupaciones elementales,Reconoc. imágenes,24.6
+1 Directores/gerentes,Comprensión imágenes,62.7
+2 Téc. y prof. científicos,Comprensión imágenes,75.3
+3 Téc. y prof. de apoyo,Comprensión imágenes,59.6
+4 Empleados admin.,Comprensión imágenes,73.7
+5 Servicios y vendedores,Comprensión imágenes,34.5
+6 Cualific. agric./pesca,Comprensión imágenes,23.0
+7 Artesanos manuf./constr.,Comprensión imágenes,30.2
+8 Operadores instal./maquinaria,Comprensión imágenes,26.3
+9 Ocupaciones elementales,Comprensión imágenes,18.8
+1 Directores/gerentes,Gen. imágenes,66.3
+2 Téc. y prof. científicos,Gen. imágenes,77.0
+3 Téc. y prof. de apoyo,Gen. imágenes,58.6
+4 Empleados admin.,Gen. imágenes,65.0
+5 Servicios y vendedores,Gen. imágenes,33.0
+6 Cualific. agric./pesca,Gen. imágenes,20.6
+7 Artesanos manuf./constr.,Gen. imágenes,35.6
+8 Operadores instal./maquinaria,Gen. imágenes,24.4
+9 Ocupaciones elementales,Gen. imágenes,15.0
+1 Directores/gerentes,Comprensión lectora,69.3
+2 Téc. y prof. científicos,Comprensión lectora,78.4
+3 Téc. y prof. de apoyo,Comprensión lectora,58.7
+4 Empleados admin.,Comprensión lectora,74.4
+5 Servicios y vendedores,Comprensión lectora,44.6
+6 Cualific. agric./pesca,Comprensión lectora,16.1
+7 Artesanos manuf./constr.,Comprensión lectora,24.5
+8 Operadores instal./maquinaria,Comprensión lectora,19.4
+9 Ocupaciones elementales,Comprensión lectora,17.4
+1 Directores/gerentes,Modelos lenguaje,68.2
+2 Téc. y prof. científicos,Modelos lenguaje,77.6
+3 Téc. y prof. de apoyo,Modelos lenguaje,57.9
+4 Empleados admin.,Modelos lenguaje,77.4
+5 Servicios y vendedores,Modelos lenguaje,46.9
+6 Cualific. agric./pesca,Modelos lenguaje,15.8
+7 Artesanos manuf./constr.,Modelos lenguaje,24.2
+8 Operadores instal./maquinaria,Modelos lenguaje,19.2
+9 Ocupaciones elementales,Modelos lenguaje,18.5
+1 Directores/gerentes,Traducción,68.1
+2 Téc. y prof. científicos,Traducción,76.0
+3 Téc. y prof. de apoyo,Traducción,57.7
+4 Empleados admin.,Traducción,80.1
+5 Servicios y vendedores,Traducción,49.9
+6 Cualific. agric./pesca,Traducción,16.8
+7 Artesanos manuf./constr.,Traducción,22.8
+8 Operadores instal./maquinaria,Traducción,20.0
+9 Ocupaciones elementales,Traducción,19.1
+1 Directores/gerentes,Reconoc. voz,66.0
+2 Téc. y prof. científicos,Reconoc. voz,74.4
+3 Téc. y prof. de apoyo,Reconoc. voz,57.3
+4 Empleados admin.,Reconoc. voz,83.1
+5 Servicios y vendedores,Reconoc. voz,52.4
+6 Cualific. agric./pesca,Reconoc. voz,17.0
+7 Artesanos manuf./constr.,Reconoc. voz,22.5
+8 Operadores instal./maquinaria,Reconoc. voz,21.8
+9 Ocupaciones elementales,Reconoc. voz,19.5
+1 Directores/gerentes,IA generativa,68.1
+2 Téc. y prof. científicos,IA generativa,78.9
+3 Téc. y prof. de apoyo,IA generativa,58.5
+4 Empleados admin.,IA generativa,73.3
+5 Servicios y vendedores,IA generativa,42.6
+6 Cualific. agric./pesca,IA generativa,17.1
+7 Artesanos manuf./constr.,IA generativa,27.7
+8 Operadores instal./maquinaria,IA generativa,20.1
+9 Ocupaciones elementales,IA generativa,16.3
